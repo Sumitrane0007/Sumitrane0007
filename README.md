@@ -61,7 +61,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sumitrane0007/Sumitrane0007/output/snake.svg" alt="Snake animation" />
 
 ###
 
